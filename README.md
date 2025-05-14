@@ -98,5 +98,40 @@ Each category includes the average number of views, likes, and comments.
 > - Почати з **коротких відео** (<1 хв або 1–5 хв), щоб легше привернути увагу.
 > - Не боятись довгих форматів, якщо маєте глибокий і цікавий контент.
 > - Обирати тривалість відео відповідно до його мети.
+>
+
+## 3. YouTube Trending Thresholds by Country
+
+This dashboard analyzes the **minimum threshold** for a YouTube channel to appear in the trending list across different countries. It covers three key metrics:
+
+1. **Minimum Views on a Channel**
+2. **Minimum Videos on a Channel**
+3. **Minimum Subscribers on a Channel**
+   
+![Dashboard 2 (1)](https://github.com/user-attachments/assets/cb2df80f-d5aa-4ea1-943a-6382e32eed9e)
+
+
+## Key Findings
+
+### 1. Minimum Views
+- Some countries, like **Italy (18K)** and **France (23K)**, have very low view thresholds.
+- Countries such as **Czechia (357K)** and **Slovenia (343K)** require significantly more views.
+- **Ukraine**, added manually, stands out with **2.34M minimum views**, far above others.
+
+### 2. Minimum Number of Videos
+- In most countries, a **single video** is enough to reach trending status.
+- Exceptions include **Argentina, Australia, Czechia, and Poland**, which require **3–4 videos**.
+
+### 3. Minimum Subscribers
+- Some countries like **Japan (95 subscribers)** and **Finland (2,920)** show surprisingly low thresholds.
+- In contrast, most countries require **10,000+ subscribers**, with **Brazil** being the highest at **10,800**.
+- **Ukraine** again stands out with **20,100 minimum subscribers**.
+
+## Notes
+- The data highlights **regional disparities** in how content trends across different markets.
+- Manual inclusion of countries (e.g., Ukraine) can provide additional insights or reveal outliers not captured in automated top lists.
+
+
+---
 
 
