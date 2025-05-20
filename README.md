@@ -142,7 +142,7 @@ This section presents a breakdown of YouTube video activity across different cat
 
 ![Dashboard 1](https://github.com/user-attachments/assets/23b25b52-f346-4328-b85d-951df5954360)
 
-[View Interactive Dashboard on Tableau Public]([https://public.tableau.com/views/your-dashboard-link](https://public.tableau.com/views/WeeklyTrendsinVideoPublicationsAVGViewsandAVGLikesAcrossCategories/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/WeeklyTrendsinVideoPublicationsAVGViewsandAVGLikesAcrossCategories/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
