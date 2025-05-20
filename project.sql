@@ -89,4 +89,18 @@ group by video_category_id, day_name
 order by video_category_id, avg_views desc
 ;
 
+-- #4.1 AVG time(in days) to get trending status
+with cte1 as(
+select * 
+	, round(julianday(video_trending__date) - julianday(video_published_at),0) day_diff
+from youtube_trending_videos_global ytvg 
+)
+
+select video_category_id
+	, round(avg(day_diff),0) as avg_day_time_to_trend
+from cte1
+group by video_category_id
+having video_category_id is not null
+order by avg_day_time_to_trend 
+;
 
