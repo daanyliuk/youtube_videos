@@ -176,9 +176,37 @@ This section presents a breakdown of YouTube video activity across different cat
 - **Entertainment** consistently performs best across all metrics.
 - Creators may benefit from targeting **Thursdays to Saturdays** for uploads to maximize impact.
 
+## 5. 🌎 YouTube Country Comparison — Likes, Views & Trending Insights
+
+This dashboard provides a comparison of countries based on their YouTube video performance, focusing on like-to-view ratio, average engagement, and volume of trending content.
+
+![Dashboard 1](https://github.com/user-attachments/assets/421f3bbf-3049-4058-b930-bc9e3a506693)
+
 ---
 
+## 📊 Key Insights
+
+### ✅ Top 20 Countries by Like-to-View Ratio
+- **El Salvador**, **Portugal**, and **Oman** lead in audience engagement.
+- Countries with smaller audiences often show better engagement metrics.
+- High like/view ratios can indicate loyal and active viewer bases.
+
+### 🔥 Top 20 Countries by Trending Video Count
+- **Saudi Arabia** and **Argentina** dominate in the number of trending videos.
+- High trending video counts may result from frequent uploads or audience interest in trending topics.
+
+### 📈 Average Likes & Views by Country
+- **Portugal**, **South Korea**, and **Italy** are top performers for both average likes and views.
+- Countries like **Canada** and **Singapore** show consistently strong audience interaction.
 
 ---
+
+## 🚀 Conclusions
+
+- **Engagement is more important than just views.** Countries with fewer views but high like/view ratios tend to perform better in YouTube’s algorithm.
+- **Focus on emerging regions.** Starting in a less competitive country with a high engagement rate can give you an edge.
+
+---
+
 
 
