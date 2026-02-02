@@ -19,7 +19,7 @@
 
 ![Sheet 1](https://github.com/user-attachments/assets/401ea88b-e02f-436d-9c44-7a6b0923d34f)
 
-*(👉 Інтерактивну версію цього графіка можна переглянути на Tableau Public — **[додати лінк]**)*
+👉 **[Переглянути інтерактивний дашборд на Tableau Public](https://public.tableau.com/views/Topcategoriesbythenumberoftrendingvideostheiravgviewslikesandcomments_/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
