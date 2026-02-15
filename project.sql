@@ -53,7 +53,6 @@ order by 2 desc
 ;
 
 -- #3 Minimum subscribers, views, and videos to get trending status
-with cte1 as(
 		select 
 			channel_country
 			, min(channel_video_count) min_video_count
@@ -62,17 +61,8 @@ with cte1 as(
 		from youtube_project.youtube_trending_videos_global_copy ytvgc 
 		where channel_country !=''
 		group by channel_country 
-)
-
-select 
-	channel_country
-	, min(min_video_count) as min_video_count
-	, min(min_subscriber_count) as min_subscriber_count
-	, min(min_view_count) as min_view_count
-from cte1
-group by channel_country
-having min_view_count != 0
-order by min_view_count
+	 	having min(channel_view_count) != 0
+		order by min_view_count
 ;
 
 -- #4. The breakdown of YouTube video activity across different categories and days of the week
